@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "685935317906",
+    "firebase_url": "https://leadsmobileapp.firebaseio.com",
+    "project_id": "leadsmobileapp",
+    "storage_bucket": "leadsmobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685935317906:android:3c7d7d525cbee01c",
+        "android_client_info": {
+          "package_name": "com.sebanes.leadsmobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685935317906-b11hmtiq9uop7on1gjnrbq7nlpgav8v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sebanes.leadsmobileapp",
+            "certificate_hash": "191fdb960d2dba826079e1f4beac9d945198f7ff"
+          }
+        },
+        {
+          "client_id": "685935317906-srt33g1r8if0a6c7ni98b317fir3fr9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATRiGfILK58k6RklHcP-J4cpTyWQ-L3IY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685935317906-srt33g1r8if0a6c7ni98b317fir3fr9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
